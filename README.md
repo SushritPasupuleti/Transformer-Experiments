@@ -52,3 +52,8 @@ rustc --version
 pip3 install tensorflow-macos tensorflow-metal
 ```
 
+## Running
+
+```bash
+python3 main.py "your natural language query"
+```
